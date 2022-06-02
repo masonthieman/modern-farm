@@ -34,3 +34,14 @@ h1,h2,h3,h4,h5,h6 {
     background-color: darksalmon;
 }
 
+.container {
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.plant {
+    display: flex;
+    flex-basis: 20%; 
+    padding: 1em; 
+}
